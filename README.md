@@ -1,6 +1,5 @@
-![Portada](https://github.com/user-attachments/assets/0a9c4e22-69ca-40e3-a933-44349a7247a1)
-
-# Hey! I'm Angel,
+# ![Portada](https://github.com/user-attachments/assets/0a9c4e22-69ca-40e3-a933-44349a7247a1)
+# -----> Hey! I'm Angel,
 
 A Cybersecurity Specialist and Aeronautical Engineer, with a focus on Application Security.
 
